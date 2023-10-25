@@ -39,15 +39,6 @@
 - When the **Reset** button is clicked, then the Stopwatch will be reset to zero
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/Stopwatch/index.js`
-- `src/components/Stopwatch/index.css`
-</details>
 
 ### Quick Tips
 
