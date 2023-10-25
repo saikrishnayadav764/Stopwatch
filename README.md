@@ -1,4 +1,4 @@
-In this project, let's build a **Stopwatch** by applying the concepts we have learned till now.
+**Stopwatch**
 
 ### Refer to the image below:
 
@@ -30,14 +30,13 @@ In this project, let's build a **Stopwatch** by applying the concepts we have le
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
 
-The app must have the following functionalities
 
-- When the **Start** button is clicked, then the Stopwatch should start running
-- When the **Stop** button is clicked, then the Stopwatch should stop running
-- When the **Reset** button is clicked, then the Stopwatch should be reset to zero
+- When the **Start** button is clicked, then the Stopwatch will start running
+- When the **Stop** button is clicked, then the Stopwatch will stop running
+- When the **Reset** button is clicked, then the Stopwatch will be reset to zero
 </details>
 
 <details>
@@ -77,7 +76,7 @@ Use these files to complete the implementation:
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png](https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png) alt should be **stopwatch** 
+- [https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png](https://assets.ccbp.in/frontend/react-js/stopwatch-timer.png) alt will be **stopwatch** 
 - [https://assets.ccbp.in/frontend/react-js/stopwatch-sm-bg.png](https://assets.ccbp.in/frontend/react-js/stopwatch-sm-bg.png)
 - [https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png](https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png)
 </details>
@@ -104,7 +103,7 @@ Use these files to complete the implementation:
 
 > ### _Things to Keep in Mind_
 >
-> - All components you implement should go in the `src/components` directory.
+> - All components you implement will go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
