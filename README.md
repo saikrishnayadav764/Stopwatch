@@ -27,7 +27,6 @@
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
 
 <details>
 <summary>Functionality added</summary>
