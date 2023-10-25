@@ -40,27 +40,6 @@
 </details>
 
 
-### Quick Tips
-
-<details>
-<summary>Click to view</summary>
-<br>
-
-- You can use the `box-shadow` CSS property to apply the box-shadow effect to containers
-
-  ```
-    box-shadow: 0px 4px 16px 0px #bfbfbf;
-  ```
-
-  <br/>
-  <img src="https://assets.ccbp.in/frontend/content/react-js/box-shadow-img.png" alt="box shadow" style="width:200px" />
-
-- You can use `Math.floor()` function that returns the **largest integer less than or equal to a given number**
-
-  ```js
-  console.log(Math.floor(5.95)); // output: 5
-  ```
-</details>
 
 ### Resources
 
@@ -92,9 +71,3 @@
 
 </details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement will go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
